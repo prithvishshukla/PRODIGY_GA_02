@@ -1,5 +1,5 @@
 # Install required libraries (uncomment and run if needed)
-# !pip install diffusers torch pillow ipython
+# pip install transformers diffusers torch flax jax jaxlib    
 
 # Import necessary libraries
 from diffusers import StableDiffusionPipeline  # For loading the Stable Diffusion model pipeline
